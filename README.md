@@ -2,13 +2,12 @@
 
 Pet-Friendly is a simple web project designed to provide information and resources related to pet-friendly places and services.
 
-## Project Structure
+
 
 - `index.html`: The main HTML page of the project.
 - `style.css`: The CSS file for styling the web page.
 - Images: Various images used in the project such as `image.png`, `readme.png`, and screenshots.
 
-## How to Use
 
 1. Clone the repository:
    ```
